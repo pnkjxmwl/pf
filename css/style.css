@@ -293,8 +293,8 @@ textarea {
   .projects__row-img-cont {
     overflow: hidden; }
   .projects__row-img {
-    margin-left: 230px;
-    width: 63%;
+   
+    width: 100%;
     display: block;
     object-fit: cover; }
   .projects__row-content {
